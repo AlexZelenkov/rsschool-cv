@@ -1,1 +1,1 @@
-https://github.com/AlexZelenkov/rsschool-cv.git
+https://github.com/AlexZelenkov/rsschool-cv/blob/gh-pages/cv.md
