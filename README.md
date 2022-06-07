@@ -1,1 +1,1 @@
-https://github.com/AlexZelenkov/rsschool-cv/blob/rsschool-cv-html/index.html
+https://AlexZelenkov.github.io/rsschool-cv/
